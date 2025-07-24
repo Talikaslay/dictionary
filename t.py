@@ -18,7 +18,7 @@ print(my_tuple)
 
 # nested tuple
 
-my_tuple = ("mouse", [8, 4, 6], (1, 2, 3))
+my_tuple = ("number", [8, 4, 6], (1, 2, 3))
 
 print(my_tuple)
 
@@ -32,7 +32,7 @@ print(my_tuple[5])
 
 # nested tuple
 
-n_tuple = ("mouse", [8, 4, 6], (1, 2, 3))
+n_tuple = ("number", [8, 4, 6], (1, 2, 3))
 
 # nested index
 
